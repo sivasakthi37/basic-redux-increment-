@@ -1,0 +1,70 @@
+create app using npx create-react-app "myapp"
+
+pages//
+login-
+dashboard-
+
+design routes//
+initial page should be login--
+
+
+login:--google ui
+localhost:3000/login 
+
+username:"-----"
+password:"*****"
+
+if valid user should navigate dashoard
+
+
+dashboard :---<h1>welcome dashboard</h1> 
+localhost:3000/dashboard 
+
+
+
+credential//
+username:admin
+password:12345
+
+
+need to ref
+//react-router-dom
+//react docs
+
+
+//react major concepts
+
+//react hellow world with class component and function component
+//data passing with parent to child and child to parent
+//lifecycle --//componentdidmount //componentdidupdate //componentwillunmount
+
+
+//redux  
+
+
+
+
+
+//login->username->password ->api hit  :<-----token(if valid user) : <-(error)
+
+
+
+
+
+componentdidmount(){
+
+data=[{
+    
+}]
+
+setstate(data)
+
+}
+
+//dashoard--> api hit with token -->backend :<----products []
+
+--token
+
+
+//dashboard
+//api hit --> 
